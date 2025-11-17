@@ -1,0 +1,16 @@
+C:\Users\karth\Downloads\maiora\java\src\main\java\com\example\library\config\DataInitializer.java
+C:\Users\karth\Downloads\maiora\java\src\main\java\com\example\library\config\SQLiteDialect.java
+C:\Users\karth\Downloads\maiora\java\src\main\java\com\example\library\config\SQLiteIdentityColumnSupport.java
+C:\Users\karth\Downloads\maiora\java\src\main\java\com\example\library\controller\BookController.java
+C:\Users\karth\Downloads\maiora\java\src\main\java\com\example\library\controller\UserController.java
+C:\Users\karth\Downloads\maiora\java\src\main\java\com\example\library\LibraryApplication.java
+C:\Users\karth\Downloads\maiora\java\src\main\java\com\example\library\model\Book.java
+C:\Users\karth\Downloads\maiora\java\src\main\java\com\example\library\model\Category.java
+C:\Users\karth\Downloads\maiora\java\src\main\java\com\example\library\model\ReadingHistory.java
+C:\Users\karth\Downloads\maiora\java\src\main\java\com\example\library\model\User.java
+C:\Users\karth\Downloads\maiora\java\src\main\java\com\example\library\repository\BookRepository.java
+C:\Users\karth\Downloads\maiora\java\src\main\java\com\example\library\repository\ReadingHistoryRepository.java
+C:\Users\karth\Downloads\maiora\java\src\main\java\com\example\library\repository\UserRepository.java
+C:\Users\karth\Downloads\maiora\java\src\main\java\com\example\library\service\BookService.java
+C:\Users\karth\Downloads\maiora\java\src\main\java\com\example\library\service\RecommendationService.java
+C:\Users\karth\Downloads\maiora\java\src\main\java\com\example\library\service\UserService.java
